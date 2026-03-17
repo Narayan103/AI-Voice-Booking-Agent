@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Voice Command App with Gemini API
 An intelligent AI-powered voice assistant that simulates real phone-call conversations to automate salon appointment bookings.
 
@@ -67,5 +67,3 @@ This repository contains a full-stack voice-activated appointment booking app.
 - `.gitignore` includes node_modules, logs, dist/build outputs, env files, and IDE directories.
 - Keep secret keys (Gemini API key) out of the repo and only in `.env`.
 =======
-# AI-Voice-Booking-Agent
->>>>>>> 27ee55ae1c9dc128781933cf0452d5a0b87e53ae
